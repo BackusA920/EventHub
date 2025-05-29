@@ -8,6 +8,6 @@
   <img src="./assets/Screen.png" width="500" alt="Screenshot of website">
   
   <br><br>
-<a href="https://github.com/BackusA920/EventHub">
+<a href="https://backusa920.github.io/EventHub/">
   <img src="https://dabuttonfactory.com/button.png?t=View+Project&f=Calibri-Bold&ts=18&tc=fff&hp=45&vp=20&w=134&h=38&c=11&bgt=unicolored&bgc=245c68&be=1">
 </a>
