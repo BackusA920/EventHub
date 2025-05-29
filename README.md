@@ -3,7 +3,7 @@
 
 <p>This project was a way for me to practice and show off what I’ve learned about building organized, responsive layouts without using any frameworks, just plain HTML and CSS. I kept the design earthy and professional to match the garden theme, while also making sure it’s accessible and easy to read.</p>
 
-<a href="https://github.com/BackusA920/EventHub"></a>
+<a href="https://backusa920.github.io/EventHub/"></a>
 
   <img src="./assets/Screen.png" width="500" alt="Screenshot of website">
   
